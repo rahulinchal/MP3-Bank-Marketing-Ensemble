@@ -25,3 +25,6 @@ Problem statement: We have data from a Portuguese bank on details of customers r
 18. cons.conf.idx: consumer confidence index - monthly indicator <br>
 19. euribor3m: euribor 3 month ratev
 10. nr.employed: number of employees - quarterly indicator <br>
+
+# Conclusion:
+There is no much difference in model performance after dealing with outliers, The performance can be incresed by tuning and so far the best fit model is Gradient boosting and adaboost model
